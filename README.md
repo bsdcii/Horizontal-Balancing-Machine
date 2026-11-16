@@ -1,10 +1,9 @@
-# Universal Milling Machine
+# Horizontal Balancing Machine
 
-Milling machine documentation, with the risk assessment replaced by the balancing machine risk assessment.
+Documentation for the horizontal balancing machine.
 
 ## Documents
-- [01 Milling Machine Manual](01_Milling_Machine_Manual.pdf)
-- [02 Milling Machine Operating Procedure](02_Milling_Machine_Operating_Procedure.pdf)
-- [03 Milling Machine Maintenance Schedule](03_Milling_Machine_Maintenance_Schedule.pdf)
-- [04 Balancing Machine Risk Assessment](04_Balancing_Machine_Risk_Assessment.pdf.pdf)
-- [05 Milling Machine Picture](05_Milling_Machine_Picture.png)
+- [01 Balancing Machine Calibration Certificate](01_Balancing_Machine_CalibrationCert.pdf)
+- [02 Balancing Machine Manual](02_Balancing_Machine_Manual.pdf)
+- [03 Balancing Machine Risk Assessment](03_Balancing_Machine_Risk_Assessment.pdf.pdf)
+- [04 Balancing Machine Picture](04_Balancing_Machine_Picture.png.jpg)
